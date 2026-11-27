@@ -1,1 +1,1 @@
-(()=>{const e=()=>{if(e.done)return;e.done=!0;const t=document.createElement("script");t.src="/js/home-carousel.js?v=20261113a",t.defer=!0,document.body.appendChild(t)};"requestIdleCallback"in window?requestIdleCallback(e,{timeout:4e3}):window.setTimeout(e,1200)})();
+(()=>{const e=()=>{if(e.done)return;e.done=!0;const o=document.createElement("script");o.src="/js/home-carousel.js?v=20261127-covers",o.defer=!0,document.body.appendChild(o)};"requestIdleCallback"in window?requestIdleCallback(e,{timeout:4e3}):window.setTimeout(e,1200)})();
