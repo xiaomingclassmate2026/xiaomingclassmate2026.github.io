@@ -10,7 +10,23 @@
   <rights>All rights reserved 2026, 小明同学</rights>
   <subtitle>Linux、Docker、VPS 与 AI 实践笔记</subtitle>
   <title>小明同学</title>
-  <updated>2026-11-22T16:18:59.772Z</updated>
+  <updated>2026-11-28T14:54:29.480Z</updated>
+  <entry>
+    <author>
+      <name>小明同学</name>
+    </author>
+    <content>
+      <![CDATA[<p>Qexo deployment check 20261128 edited draft.</p>]]>
+    </content>
+    <id>https://xiaomingclassmate.com/posts/62391/</id>
+    <link href="https://xiaomingclassmate.com/posts/62391/"/>
+    <published>2026-11-28T14:54:29.000Z</published>
+    <summary>
+      <![CDATA[<p>Qexo deployment check 20261128 edited]]>
+    </summary>
+    <title>Qexo deployment check</title>
+    <updated>2026-11-28T14:54:29.480Z</updated>
+  </entry>
   <entry>
     <author>
       <name>小明同学</name>
@@ -371,23 +387,5 @@
     <summary>使用开源工具 VERT 在本地完成文档、图片与音视频格式转换，避免上传敏感文件到第三方服务器，并说明安装、使用方式与常见格式限制。</summary>
     <title>卸载掉你那堆带广告的转换器吧，有一个 VERT 就够了</title>
     <updated>2026-11-12T13:54:04.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小明同学</name>
-    </author>
-    <category term="效率工具" scheme="https://xiaomingclassmate.com/categories/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/"/>
-    <category term="BestBlogs" scheme="https://xiaomingclassmate.com/tags/BestBlogs/"/>
-    <category term="技术阅读" scheme="https://xiaomingclassmate.com/tags/%E6%8A%80%E6%9C%AF%E9%98%85%E8%AF%BB/"/>
-    <category term="信息筛选" scheme="https://xiaomingclassmate.com/tags/%E4%BF%A1%E6%81%AF%E7%AD%9B%E9%80%89/"/>
-    <content>
-      <![CDATA[<p>大家好，我是小明同学。</p><p>不知道大家有没有同感：</p><p>现在的互联网，<strong>垃圾信息</strong>实在是太多了。</p><p>想学点新技术，打开搜索引擎，前三页全是广告和 SEO 拼凑的废话；</p><p>关注了一堆公众号和博客，标题一个比一个惊悚，点进去全是情绪输出，干货没多少；</p><p>好不容易看到几篇好文章，随手点个“收藏”，然后……就没有然后了，它们在收藏夹里安静地躺成了化石。</p><p>我们每天都很忙，但又很焦虑，生怕错过了什么重要的技术趋势。</p><p><strong>我们需要不是更多的信息，而是更好的过滤器。</strong></p><p>最近挖到了一个宝藏平台——<strong>BestBlogs</strong>，用了一周，我感觉我的“阅读焦虑症”被治好了。</p><p>开源地址：<a href="https://github.com/ginobefun/BestBlogs">https://github.com/ginobefun/BestBlogs</a><br><img src="https://cdn.jsdelivr.net/gh/jumplooper/images/image/20260103200843705.png" alt="BestBlogs 技术阅读 - 操作截图 1"></p><p>今天必须按头安利给大家。</p><h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>BestBlogs.dev 为您提供编程、人工智能、产品设计、商业科技和个人成长领域的精选内容，汇集自顶级技术公司和社区。我们利用先进的大语言模型，为每篇文章提供智能摘要、评分和翻译服务，帮助您快速筛选高价值内容，节省阅读时间。立即订阅，探索未来技术的无限可能！<br><img src="https://cdn.jsdelivr.net/gh/jumplooper/images/image/20260103201007024.png" alt="BestBlogs 技术阅读 - 操作截图 2"><br><img src="https://cdn.jsdelivr.net/gh/jumplooper/images/image/20260103201029437.png" alt="BestBlogs 技术阅读 - 操作截图 3"></p><h3 id="1-1-优质文章"><a href="#1-1-优质文章" class="headerlink" title="1.1 优质文章"></a>1.1 优质文章</h3><p><a href="https://github.com/ginobefun/BestBlogs/blob/main/images/article_list_v4.png"><img src="/img/optimized/article_list_v4.webp" alt="文章列表" width="1600" height="1083" srcset="/img/optimized/article_list_v4-480w.webp 480w, /img/optimized/article_list_v4-768w.webp 768w, /img/optimized/article_list_v4.webp 1600w" sizes="(max-width: 768px) calc(100vw - 48px), 820px"></a></p><h3 id="1-2-品质播客"><a href="#1-2-品质播客" class="headerlink" title="1.2 品质播客"></a>1.2 品质播客</h3><p><a href="https://github.com/ginobefun/BestBlogs/blob/main/images/podcast_list_v4.png"><img src="/img/optimized/podcast_list_v4.webp" alt="播客列表" width="1600" height="1175" srcset="/img/optimized/podcast_list_v4-480w.webp 480w, /img/optimized/podcast_list_v4-768w.webp 768w, /img/optimized/podcast_list_v4.webp 1600w" sizes="(max-width: 768px) calc(100vw - 48px), 820px"></a></p><h3 id="1-3-精选视频"><a href="#1-3-精选视频" class="headerlink" title="1.3 精选视频"></a>1.3 精选视频</h3><p><a href="https://github.com/ginobefun/BestBlogs/blob/main/images/video_list_v4.png"><img src="/img/optimized/video_list_v4.webp" alt="视频列表" width="1600" height="1093" srcset="/img/optimized/video_list_v4-480w.webp 480w, /img/optimized/video_list_v4-768w.webp 768w, /img/optimized/video_list_v4.webp 1600w" sizes="(max-width: 768px) calc(100vw - 48px), 820px"></a></p><h3 id="1-4-热门推文"><a href="#1-4-热门推文" class="headerlink" title="1.4 热门推文"></a>1.4 热门推文</h3><p><a href="https://github.com/ginobefun/BestBlogs/blob/main/images/twitter_list_v4.png"><img src="/img/optimized/twitter_list_v4.webp" alt="推文列表" width="1600" height="1148" srcset="/img/optimized/twitter_list_v4-480w.webp 480w, /img/optimized/twitter_list_v4-768w.webp 768w, /img/optimized/twitter_list_v4.webp 1600w" sizes="(max-width: 768px) calc(100vw - 48px), 820px"></a></p><h2 id="01"><a href="#01" class="headerlink" title="01"></a>01</h2><h2 id="它是你的“最强阅读嘴替”"><a href="#它是你的“最强阅读嘴替”" class="headerlink" title="它是你的“最强阅读嘴替”"></a>它是你的“最强阅读嘴替”</h2><p>BestBlogs 的核心逻辑很简单，也很粗暴：<strong>用 AI 帮你把关。</strong></p><p>以前我们需要自己去翻 Hacker News，去扫 RSS 订阅，去推特上淘金。现在，BestBlogs 把这些源头的高质量内容全聚合在一起了。</p><p>但这不算什么，最牛的是它的<strong>AI 摘要功能</strong>。</p><p>很多技术文章动不动就万字长文，全英文还夹杂着一堆术语。BestBlogs 会直接用 AI 把文章“嚼碎”了：</p><ul><li><strong>一句话总结</strong>：这是讲什么的？值不值得读？</li><li><strong>核心观点提炼</strong>：文章的精华由哪几点组成？</li><li><strong>中文翻译</strong>：英文苦手的救星，直接看中文摘要，无痛吸收。</li></ul><p>我现在的习惯是：早上通勤路上，刷一遍 BestBlogs 的摘要列表。感兴趣的，点进去读全文；一般的，看个结论就知道怎么回事了。</p><p>效率提升了不止十倍。</p><h2 id="02"><a href="#02" class="headerlink" title="02"></a>02</h2><h2 id="只推“人话”，不推“水文”"><a href="#只推“人话”，不推“水文”" class="headerlink" title="只推“人话”，不推“水文”"></a>只推“人话”，不推“水文”</h2><p>在这个 AI 生成内容泛滥的时代，想在互联网上找到“人”写的深度好文，反而成了一件奢侈品。</p><p>BestBlogs 似乎有一套自己的评分机制。</p><p>它推荐给我的文章，很少有那种车轱辘话来回说的营销文，大多是<strong>硬核的技术分析、深度的行业思考、或者是实战的经验分享</strong>。</p><p>它像一个品味很好的老编辑，虽然不知疲倦地全网抓取，但只有真正有营养的东西，才会被端到你的餐桌上。</p><p>这种 <strong>“被尊重”</strong> 的感觉，在现在的互联网环境里，真的太难得了。</p><h2 id="03"><a href="#03" class="headerlink" title="03"></a>03</h2><h2 id="告别-FOMO（错失恐惧症）"><a href="#告别-FOMO（错失恐惧症）" class="headerlink" title="告别 FOMO（错失恐惧症）"></a>告别 FOMO（错失恐惧症）</h2><p>作为技术人，我们最怕的就是“掉队”。</p><p>昨天大模型又出了新架构，今天某个框架又发布了 3.0……</p><p>以前我会强迫自己把这些新闻都看完，搞得自己很累。</p><p>用了 BestBlogs 之后，我发现心态变了。因为它把热点聚合得很好，我只需要每天花 5-10 分钟，就能大概知道这个世界发生了什么。</p><p><strong>把省下来的时间，拿去深度阅读那 1% 真正值得钻研的好文章，或者干脆关上电脑，去陪陪家人。</strong></p><h2 id="04"><a href="#04" class="headerlink" title="04"></a>04</h2><h2 id="开始订阅"><a href="#开始订阅" class="headerlink" title="开始订阅"></a>开始订阅</h2><p>网站订阅地址：<a href="https://www.bestblogs.dev/#subscribe">https://www.bestblogs.dev/#subscribe</a><br><img src="https://cdn.jsdelivr.net/gh/jumplooper/images/image/20260103202034979.png" alt="BestBlogs 技术阅读 - 开始订阅截图 4"><br>输入订阅邮箱地址，点击免费订阅，在邮箱中点击确认订阅，订阅成功后，将在每周五收到BestBlogs的精选文章推送。<br><img src="https://cdn.jsdelivr.net/gh/jumplooper/images/image/20260103202200558.png" alt="BestBlogs 技术阅读 - 开始订阅截图 5"><br>你也可以在网页查看往期精选文章<br><img src="https://cdn.jsdelivr.net/gh/jumplooper/images/image/20260103203133031.png" alt="BestBlogs 技术阅读 - 开始订阅截图 6"></p><h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>工具的本质，是为了让人更自由，而不是更忙碌。</p><p>如果你也受够了信息流里的垃圾快乐，受够了永远读不完的收藏夹，不妨试试 BestBlogs。</p><p>把筛选的工作交给 AI，把思考的乐趣留给自己。</p><p>在这个信息爆炸的时代，<strong>“少读点，读好点”</strong>，才是顶级的自律。</p><p>你现在主要通过什么渠道获取高质量信息？RSS、推特列表还是某个宝藏博主？评论区交换一波“秘密基地”吧！</p>]]>
-    </content>
-    <id>https://xiaomingclassmate.com/posts/1698/</id>
-    <link href="https://xiaomingclassmate.com/posts/1698/"/>
-    <published>2026-01-03T14:49:51.000Z</published>
-    <summary>用 BestBlogs 聚合技术博客、播客、视频和社交内容，通过摘要、分类与每日推送快速筛选高质量信息，减少在多个平台之间反复切换的时间。</summary>
-    <title>每天 5 分钟，刷完互联网最硬核的技术干货，我是怎么做到的？</title>
-    <updated>2026-11-12T13:54:03.000Z</updated>
   </entry>
 </feed>
